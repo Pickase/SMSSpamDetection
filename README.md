@@ -99,8 +99,6 @@ Open `SMSSpam-1.ipynb` to explore data processing, model training, and evaluatio
 from classifier import classify
 print(classify("Congratulations! You have won a free ticket..."))
 
-text
-
 
 
 ## Insights & Observations
