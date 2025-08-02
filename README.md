@@ -92,7 +92,7 @@ pip install -r requirements.txt
 text
 
 3. **Run the Notebook**  
-Open `SMSSpam-1.ipynb` to explore data processing, model training, and evaluation.
+Open `SMSSpamDetection.ipynb` to explore data processing, model training, and evaluation.
 
 4. **Predict New Messages**  
 
