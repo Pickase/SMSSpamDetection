@@ -203,27 +203,6 @@ text
 3. **Run the Notebook**  
 Open `SMSSpam-1.ipynb` to explore data processing, model training, and evaluation.
 
-4. **Predict New Messages**  
-
-from classifier import classify
-print(classify("Congratulations! You have won a free ticket..."))
-
-text
-
----
-
-## Project Structure
-
-sms-spam-classification/
-├── SMSSpam-1.ipynb # Jupyter notebook with full implementation
-├── classifier.py # Wrapped classify functions for external use
-├── requirements.txt # Python dependencies
-├── charts/ # Generated performance and split charts
-│ ├── sms_spam_model_performance.png
-│ └── dataset_split_sms_spam.png
-└── README.md # Project overview and instructions
-
----
 
 ## Insights & Observations
 
