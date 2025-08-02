@@ -223,8 +223,6 @@ sms-spam-classification/
 │ └── dataset_split_sms_spam.png
 └── README.md # Project overview and instructions
 
-text
-
 ---
 
 ## Insights & Observations
